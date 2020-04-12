@@ -1,0 +1,1 @@
+Hello. It's App on GO lang.
